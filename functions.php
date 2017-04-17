@@ -17,6 +17,12 @@
 	// Theme sidebars
 	include_once($functions_path . '/sidebars.php');
 
+    //TLC Transient
+//    include_once($functions_path . 'tlc-transient/tlc-transients.php');
+
+    //Get Youtube/Vimeo/Wistia thumbnails from url
+    // include_once($functions_path . 'embed_video_thumbnail.php');
+
 	// Helper functions
 	include_once($functions_path . '/helpers.php');
 
